@@ -133,3 +133,12 @@ As a result, this analysis identifies patterns associated with fraud-labeled pro
 
 The conclusions presented in this project are based on exploratory data analysis and should be interpreted as analytical observations rather than evidence of fraudulent behavior.
 
+##  Dataset
+
+The original dataset used in this project is publicly available on Kaggle:
+
+**HEALTHCARE PROVIDER FRAUD DETECTION ANALYSIS
+**
+https://www.kaggle.com/datasets/rohitrox/healthcare-provider-fraud-detection-analysis/data
+
+
