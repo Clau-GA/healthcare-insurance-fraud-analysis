@@ -74,6 +74,8 @@ The analysis focused on understanding **why** providers were classified as Poten
 
 ### Dashboard 1 – Executive Overview
 
+![Dashboard 1](images/Dashboard1.png)
+
  
 Provides a high-level summary of the dataset, including the number of providers, fraud rate, inpatient and outpatient claims, and overall reimbursement metrics.
 
@@ -81,6 +83,7 @@ Provides a high-level summary of the dataset, including the number of providers,
 
 ### Dashboard 2 – Provider Activity
 
+![Dashboard 2](images/Dashboard2.png)
  
 Compares provider activity by analyzing claim volume, patient volume, claims per provider, and claims per patient to determine whether higher activity explains the fraud classification.
 
@@ -88,6 +91,7 @@ Compares provider activity by analyzing claim volume, patient volume, claims per
 
 ### Dashboard 3 – Financial Analysis
 
+![Dashboard 3](images/Dashboard3.png)
  
 Explores reimbursement patterns by comparing total and average reimbursement amounts for inpatient and outpatient claims between fraud and non-fraud providers.
 
@@ -95,6 +99,7 @@ Explores reimbursement patterns by comparing total and average reimbursement amo
 
 ### Dashboard 4 – Clinical Analysis
 
+![Dashboard 4](images/Dashboard4.png)
  
 Analyzes patient complexity through chronic conditions, average length of stay, and diagnosis distributions to identify potential clinical differences between fraud and non-fraud providers.
 
@@ -102,6 +107,7 @@ Analyzes patient complexity through chronic conditions, average length of stay, 
 
 ### Dashboard 5 – Investigation & Findings
 
+![Dashboard 5](images/Dashboard5.png) 
  
 Summarizes the investigation by exploring provider behavior, diagnosis groups, and key observations that help explain the results obtained throughout the analysis.
 
